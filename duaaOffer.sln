@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "duaaOffer", "duaaOffer\duaaOffer.csproj", "{11EE5E13-AC74-49F2-AD0F-1ACE460B0CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11EE5E13-AC74-49F2-AD0F-1ACE460B0CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EE5E13-AC74-49F2-AD0F-1ACE460B0CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EE5E13-AC74-49F2-AD0F-1ACE460B0CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EE5E13-AC74-49F2-AD0F-1ACE460B0CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FA038F8-8219-48E6-A603-AA62EE6EA3D2}
+	EndGlobalSection
+EndGlobal
